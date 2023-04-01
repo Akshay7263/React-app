@@ -1,10 +1,11 @@
 
 import './App.css';
+import UseReducerHook from './components/UseReducerHook';
 
 function App() {
   return (
     <div className="App">
-      WELCOME AKSHAY
+     <UseReducerHook />
           </div>
   );
 }
